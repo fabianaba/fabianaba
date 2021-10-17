@@ -1,7 +1,7 @@
 <img src="https://github.com/fabianaba/fabianaba/blob/master/header.png" alt="banner that says Fabiana">
 
 - ⚡ I'm a Mathematician with an MBA degree in Management and Quality Technologies
-- 🔭 I’m currently working at the Insurance Industry at Toronto, Canada
+- 🔭 I’m currently working at the insurance industry
 - 🌱 I’m currently learning: Data Science
 
 
