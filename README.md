@@ -2,7 +2,7 @@
 
 - ⚡ I'm a Mathematician with an MBA degree in Management and Quality Technologies
 - 🔭 I’m currently working at the insurance industry in Toronto, Canada
-- 🌱 I’m currently learning: Data Science
+- 🌱 I’m currently learning: Data Analysis and Data Science tools
 
 
 <!--- 
