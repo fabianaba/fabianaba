@@ -1,8 +1,8 @@
-### Hi I am Fabiana 👋
+### Hi I am Fabiana
 
 - ⚡ I'm a Mathematician with an MBA degree in Management and Quality Technologies
-- 🔭 I’m currently working at the insurance industry in Toronto, Canada
-- 🌱 I’m currently learning: Data Analysis and Data Science tools
+- 🔭 I’m currently working at the IT industry in Toronto, Canada, as a Data Analyst and Developer
+- 🌱 I’m currently learning: Data Sciences tools at University of Toronto.
 
 
 <!--- 
